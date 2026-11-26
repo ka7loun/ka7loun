@@ -1,11 +1,11 @@
 <a href="https://ahmedkahloun.vercel.app">
   <picture>
     <source media="(prefers-color-scheme: dark)" srcset="assets/banner-dark.svg">
-    <img alt="Ahmed Kahloun. I build software for real problems, from EU compliance to parking in Sousse." src="assets/banner-light.svg" width="100%">
+    <img alt="Ahmed Kahloun. I build software for real problems. Remote, UTC+1." src="assets/banner-light.svg" width="100%">
   </picture>
 </a>
 
-Hey, I'm Ahmed. By day I'm the **Tech Lead at GoToGreen**, where we build **Pass2Green**: it helps Tunisian manufacturers produce the Digital Product Passports the EU will require before they can sell into Europe. On a lot of weekends, I'm at a hackathon building something for a problem I bumped into that week.
+Hey, I'm Ahmed. By day I'm the **Tech Lead at GoToGreen**, where we build **Pass2Green**: it helps manufacturers produce the Digital Product Passports the EU will soon require for anything sold in Europe. On a lot of weekends, I'm at a hackathon building something for a problem I bumped into that week.
 
 [Portfolio](https://ahmedkahloun.vercel.app) &nbsp;·&nbsp; [LinkedIn](https://www.linkedin.com/in/ahmed-kahloun) &nbsp;·&nbsp; [Email](mailto:kahlounahmed1@gmail.com) &nbsp;·&nbsp; [CV](https://ahmedkahloun.vercel.app/ahmed-kahloun-cv.pdf)
 
@@ -22,25 +22,25 @@ Hey, I'm Ahmed. By day I'm the **Tech Lead at GoToGreen**, where we build **Pass
     </td>
     <td width="50%" valign="top">
       <a href="https://plassa.vercel.app"><img src="assets/plassa.png" alt="Plassa"></a>
-      <br><b><a href="https://github.com/ka7loun/plassa">Plassa</a></b> &nbsp;<sub>Lil Tech Sousse hackathon</sub>
-      <br>Because finding parking near Bab Bhar shouldn't take forever. Rent a resident's empty spot by the hour.
+      <br><b><a href="https://github.com/ka7loun/plassa">Plassa</a></b> &nbsp;<sub>Hackathon prototype</sub>
+      <br>Stop circling the block: rent a resident's empty parking spot by the hour.
     </td>
   </tr>
   <tr>
     <td width="50%" valign="top">
       <a href="https://kifcash-agent-dashboard.vercel.app"><img src="assets/kifcash.png" alt="KifCash"></a>
       <br><b><a href="https://github.com/ka7loun/kif-cash-dashboard-design">KifCash</a></b> &nbsp;<sub>1st place, BankiFi Hackathon 2025</sub>
-      <br>Banking for people without a bank: local agents, an AI advisor and USSD for phones without internet.
+      <br>Banking for people without a bank: agent networks, an AI advisor and USSD for phones without internet.
     </td>
     <td width="50%" valign="top">
       <a href="https://bahrtounes-essths-sdc.vercel.app"><img src="assets/bahrtounes.png" alt="BahrTounes"></a>
       <br><b><a href="https://github.com/ka7loun/BahrTounes">BahrTounes</a></b> &nbsp;<sub>Marine conservation</sub>
-      <br>Spot illegal fishing, drop a pin, report it. A small tool for a big coastline.
+      <br>Spot illegal fishing, drop a pin, report it. Citizen reporting for marine conservation.
     </td>
   </tr>
 </table>
 
-Also: **[RNE](https://github.com/ka7loun/RNE)** (company-name checker in 3 languages, Hack4Justice finalist) · **[Smart IT Support](https://github.com/ka7loun/smart-it-support-dashboard)** (a helpdesk that triages itself, built at LEONI) · **[TuniWaste](https://github.com/ka7loun/Tuniwaste)** (a marketplace for industrial waste) · **[Navigateur NIRD](https://github.com/ka7loun/navigateur-NIRD)** (a browser extension for a lighter web)
+Also: **[RNE](https://github.com/ka7loun/RNE)** (multilingual company-name validation for a national registry, Hack4Justice finalist) · **[Smart IT Support](https://github.com/ka7loun/smart-it-support-dashboard)** (a helpdesk that triages itself, built at LEONI) · **[TuniWaste](https://github.com/ka7loun/Tuniwaste)** (a marketplace for industrial waste) · **[Navigateur NIRD](https://github.com/ka7loun/navigateur-NIRD)** (a browser extension for a lighter web)
 
 ### The trophy shelf
 
@@ -61,6 +61,7 @@ Also: **[RNE](https://github.com/ka7loun/RNE)** (company-name checker in 3 langu
 - I led IEEE's Computer Society at ESSTHS for two years: 10+ workshops, 30+ students coached for hackathons.
 - I care about the boring parts too: CI on day one, role-based access done properly, a README people can actually follow.
 - Ask me about **ESPR and Digital Product Passports**. I promise it's more interesting than it sounds.
-- Currently studying CS at ISITCOM, Hammam Sousse.
+- Studying Computer Science at ISITCOM, working remotely in UTC+1.
+- Open to **remote roles and freelance projects**.
 
-<sub>If you made it this far, say hi: <a href="mailto:kahlounahmed1@gmail.com">kahlounahmed1@gmail.com</a>. Hackathon team invites especially welcome.</sub>
+<sub>If you made it this far, say hi: <a href="mailto:kahlounahmed1@gmail.com">kahlounahmed1@gmail.com</a>. Remote roles, freelance work and hackathon invites all welcome.</sub>
