@@ -1,37 +1,66 @@
-# Ahmed Kahloun
+<a href="https://ahmedkahloun.vercel.app">
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="assets/banner-dark.svg">
+    <img alt="Ahmed Kahloun. I build software for real problems, from EU compliance to parking in Sousse." src="assets/banner-light.svg" width="100%">
+  </picture>
+</a>
 
-**Tech Lead & full-stack developer in Sousse, Tunisia.** I lead the tech team at **GoToGreen**, where we build [Pass2Green](https://pass2green-landing-page.vercel.app): EU-compliant Digital Product Passports for manufacturers exporting to Europe. Outside work, I build things for real local problems, usually starting at a hackathon.
+Hey, I'm Ahmed. By day I'm the **Tech Lead at GoToGreen**, where we build **Pass2Green**: it helps Tunisian manufacturers produce the Digital Product Passports the EU will require before they can sell into Europe. On a lot of weekends, I'm at a hackathon building something for a problem I bumped into that week.
 
-[Portfolio](https://ahmedkahloun.vercel.app) · [LinkedIn](https://www.linkedin.com/in/ahmed-kahloun) · [Email](mailto:kahlounahmed1@gmail.com) · [CV](https://ahmedkahloun.vercel.app/ahmed-kahloun-cv.pdf)
+[Portfolio](https://ahmedkahloun.vercel.app) &nbsp;·&nbsp; [LinkedIn](https://www.linkedin.com/in/ahmed-kahloun) &nbsp;·&nbsp; [Email](mailto:kahlounahmed1@gmail.com) &nbsp;·&nbsp; [CV](https://ahmedkahloun.vercel.app/ahmed-kahloun-cv.pdf)
 
-## Now
+---
 
-- **Tech Lead, GoToGreen** (Oct 2025 – now): roadmap, architecture, CI/CD and delivery for Pass2Green and client projects in sustainability tech and AI automation
-- Previously: **3DWave** (built the first Pass2Green platform and its AI carbon-footprint calculator) and **LEONI** (AI IT-support platform that cut manual triage by about 70%)
-- Computer Science at **ISITCOM**; former Computer Society Chair at **IEEE ESSTHS**
+### Things I've shipped
 
-## Selected projects
+<table>
+  <tr>
+    <td width="50%" valign="top">
+      <a href="https://pass2green-landing-page.vercel.app"><img src="assets/pass2green.png" alt="Pass2Green"></a>
+      <br><b>Pass2Green</b> &nbsp;<sub>GoToGreen · I lead the tech</sub>
+      <br>EU Digital Product Passports and an AI carbon-footprint calculator. Next.js, NestJS, MongoDB Atlas.
+    </td>
+    <td width="50%" valign="top">
+      <a href="https://plassa.vercel.app"><img src="assets/plassa.png" alt="Plassa"></a>
+      <br><b><a href="https://github.com/ka7loun/plassa">Plassa</a></b> &nbsp;<sub>Lil Tech Sousse hackathon</sub>
+      <br>Because finding parking near Bab Bhar shouldn't take forever. Rent a resident's empty spot by the hour.
+    </td>
+  </tr>
+  <tr>
+    <td width="50%" valign="top">
+      <a href="https://kifcash-agent-dashboard.vercel.app"><img src="assets/kifcash.png" alt="KifCash"></a>
+      <br><b><a href="https://github.com/ka7loun/kif-cash-dashboard-design">KifCash</a></b> &nbsp;<sub>1st place, BankiFi Hackathon 2025</sub>
+      <br>Banking for people without a bank: local agents, an AI advisor and USSD for phones without internet.
+    </td>
+    <td width="50%" valign="top">
+      <a href="https://bahrtounes-essths-sdc.vercel.app"><img src="assets/bahrtounes.png" alt="BahrTounes"></a>
+      <br><b><a href="https://github.com/ka7loun/BahrTounes">BahrTounes</a></b> &nbsp;<sub>Marine conservation</sub>
+      <br>Spot illegal fishing, drop a pin, report it. A small tool for a big coastline.
+    </td>
+  </tr>
+</table>
 
-| Project | What it does | Stack |
-|---|---|---|
-| **[Plassa](https://github.com/ka7loun/plassa)** · [live](https://plassa.vercel.app) | Rent empty parking spots in Sousse by the hour | Next.js, TypeScript, MapLibre |
-| **[KifCash](https://github.com/ka7loun/kif-cash-dashboard-design)** · [live](https://kifcash-agent-dashboard.vercel.app) | Financial inclusion through local agents, AI advisor and USSD. 1st place, BankiFi Hackathon 2025 | Next.js, TypeScript |
-| **[RNE](https://github.com/ka7loun/RNE)** | Check and reserve Tunisian company names in 3 languages. Hack4Justice 2025 finalist | TypeScript, React, NLP |
-| **[Smart IT Support](https://github.com/ka7loun/smart-it-support-dashboard)** | Helpdesk with AI chatbot and automatic ticket triage, built at LEONI | Next.js, Supabase, LLM |
-| **[TuniWaste](https://github.com/ka7loun/Tuniwaste)** | B2B marketplace connecting waste generators with recyclers | Angular, Node.js, MongoDB |
-| **[BahrTounes](https://github.com/ka7loun/BahrTounes)** · [live](https://bahrtounes-essths-sdc.vercel.app) | Report illegal fishing on a map and protect Tunisia's coast | React, TypeScript |
+Also: **[RNE](https://github.com/ka7loun/RNE)** (company-name checker in 3 languages, Hack4Justice finalist) · **[Smart IT Support](https://github.com/ka7loun/smart-it-support-dashboard)** (a helpdesk that triages itself, built at LEONI) · **[TuniWaste](https://github.com/ka7loun/Tuniwaste)** (a marketplace for industrial waste) · **[Navigateur NIRD](https://github.com/ka7loun/navigateur-NIRD)** (a browser extension for a lighter web)
 
-## Awards
+### The trophy shelf
 
-- **1st place**, BankiFi Hackathon, SAP University (2025)
-- **Finalist**, Hack4Justice, RNE (2025)
-- **3rd place**, Civic Spirit Hackathon, MIT (2024)
-- **Excellence in Leadership Award**, IEEE (2024)
-- **Best Technical Project**, IEEE TechFest
+```text
+2025  1st place      BankiFi Hackathon ........ SAP University
+2025  Finalist       Hack4Justice ............. RNE
+2024  3rd place      Civic Spirit Hackathon ... MIT
+2024  Leadership     Excellence Award ......... IEEE
+      Best project   TechFest ................. IEEE
+```
 
-## Stack
+### What I work with
 
-**Frontend:** TypeScript, React, Next.js, Angular, Tailwind
-**Backend:** NestJS, Node.js, Express, MongoDB Atlas, Supabase
-**Data & AI:** Python, Pandas, SQL, Power BI, LLMs, Streamlit
-**Ways of working:** CI/CD, Git strategy, sprint planning, code review
+<a href="https://ahmedkahloun.vercel.app"><img src="https://skillicons.dev/icons?i=ts,react,nextjs,nestjs,nodejs,angular,tailwind,mongodb,supabase,python,git,githubactions,vercel,figma&perline=15" alt="TypeScript, React, Next.js, NestJS, Node.js, Angular, Tailwind, MongoDB, Supabase, Python, Git, GitHub Actions, Vercel, Figma"></a>
+
+### A few things about me
+
+- I led IEEE's Computer Society at ESSTHS for two years: 10+ workshops, 30+ students coached for hackathons.
+- I care about the boring parts too: CI on day one, role-based access done properly, a README people can actually follow.
+- Ask me about **ESPR and Digital Product Passports**. I promise it's more interesting than it sounds.
+- Currently studying CS at ISITCOM, Hammam Sousse.
+
+<sub>If you made it this far, say hi: <a href="mailto:kahlounahmed1@gmail.com">kahlounahmed1@gmail.com</a>. Hackathon team invites especially welcome.</sub>

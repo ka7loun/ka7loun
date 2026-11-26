@@ -1,0 +1,35 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1200" height="340" viewBox="0 0 1200 340" role="img" aria-label="Ahmed Kahloun. I build software for real problems.">
+  <style>
+    .mono { font: 600 15px ui-monospace, SFMono-Regular, Menlo, Consolas, monospace; letter-spacing: 3px; fill: #9c958c; }
+    .big { font: 400 68px Georgia, 'Times New Roman', serif; fill: #efeae2; }
+    .it { font-style: italic; }
+    .note { font: italic 22px Georgia, serif; fill: #9c958c; }
+    .marker { transform-box: fill-box; transform-origin: left center; transform: rotate(-1.2deg) scaleX(0);
+              animation: swipe 1s 0.6s cubic-bezier(.65,0,.35,1) forwards; }
+    @keyframes swipe { to { transform: rotate(-1.2deg) scaleX(1); } }
+    .cursor { animation: blink 1.1s steps(1) infinite; }
+    @keyframes blink { 50% { opacity: 0; } }
+    .spin { transform-origin: 1070px 95px; animation: spin 40s linear infinite; }
+    @keyframes spin { to { transform: rotate(360deg); } }
+    
+    
+  </style>
+  <rect width="1200" height="340" rx="24" fill="#121110"/>
+  <rect x="0.5" y="0.5" width="1199" height="339" rx="23.5" fill="none" stroke="#2a2725"/>
+  <g class="spin" opacity="0.9">
+    <circle cx="1070" cy="95" r="70" fill="none" stroke="#FFDF40" stroke-width="2" stroke-dasharray="4 9"/>
+  </g>
+  <circle cx="1070" cy="95" r="38" fill="#FFDF40"/>
+  <text x="1070" y="101" text-anchor="middle" style="font: 700 16px ui-monospace, Consolas, monospace; fill:#141414">SOUSSE</text>
+
+  <text x="64" y="78" class="mono">AHMED KAHLOUN · TECH LEAD · FULL-STACK</text>
+  <text x="64" y="160" class="big">I build software for</text>
+  <path class="marker" d="M60 205 Q62 191 80 192 L486 186 Q506 187 504 204 L502 236 Q500 250 482 249 L76 252 Q58 252 60 236 Z" fill="#FFDF40"/>
+  <text x="64" y="238" class="big it" style="fill:#141414">real problems</text><text x="498" y="238" class="big cursor">_</text>
+  <text x="64" y="296" class="note">from EU compliance to parking in Sousse.</text>
+  <g style="font: 14px ui-monospace, Consolas, monospace" text-anchor="end">
+    <text x="1136" y="232" class="mono" style="letter-spacing:1px">NOW  GoToGreen / Pass2Green</text>
+    <text x="1136" y="258" class="mono" style="letter-spacing:1px">1ST  BankiFi Hackathon 2025</text>
+    <text x="1136" y="284" class="mono" style="letter-spacing:1px">LIVE ahmedkahloun.vercel.app</text>
+  </g>
+</svg>
